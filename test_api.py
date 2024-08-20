@@ -5,7 +5,7 @@ import unittest
 
 BASE_URL = "https://web-gate.chitai-gorod.ru/api/v1"
 BASE_URL_2 = "https://web-gate.chitai-gorod.ru/api/v2"
-TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3VzZXItcmlnaHQiLCJzdWIiOjIwOTE5MzAyLCJpYXQiOjE3MjQxNjUyNTksImV4cCI6MTcyNDE2ODg1OSwidHlwZSI6MjB9.uY4mLj7psZJJC1fXGHam-feA_5LzrB5RZgZxF6rIR0g"
+TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3VzZXItcmlnaHQiLCJzdWIiOjIwOTE5MzAyLCJpYXQiOjE3MjQxNjkxNTksImV4cCI6MTcyNDE3Mjc1OSwidHlwZSI6MjB9.Vk75sUyfYfye_wzRqZ9VdQy_iWdDkGjbpOKu6h-B7hM"
 
 
 @allure.feature("API")
